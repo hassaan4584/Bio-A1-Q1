@@ -1,0 +1,6 @@
+G:\Semester 8 Spring 15\Bio Informatics\Visual Studio\Assignment 1 Q1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+G:\Semester 8 Spring 15\Bio Informatics\Visual Studio\Assignment 1 Q1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+G:\Semester 8 Spring 15\Bio Informatics\Visual Studio\Assignment 1 Q1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+G:\Semester 8 Spring 15\Bio Informatics\Visual Studio\Assignment 1 Q1\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+G:\Semester 8 Spring 15\Bio Informatics\Visual Studio\Assignment 1 Q1\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+G:\Semester 8 Spring 15\Bio Informatics\Visual Studio\Assignment 1 Q1\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
