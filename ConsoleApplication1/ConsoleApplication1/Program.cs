@@ -162,6 +162,7 @@ namespace ConsoleApplication1
             str1 = File.ReadAllText("x.txt");
             str2 = File.ReadAllText("y.txt");
             //Program myProgram = new Program("ATCGAC", "CATAC");
+            Program p = new Program("ATC","TAC");
             Program myProgram = new Program(str1, str2);
             myProgram.calculateScore();
             myProgram.print();
